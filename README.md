@@ -15,7 +15,7 @@ This project assumes the following tools are installed:
 
 1. Clone the base from the repo:
 
-    $ git clone git@bitbucket.org:alexisibarra/currency_service.git
+    $ git clone git@bitbucket.org:alexisibarra/CurrencyService.git
 
 2. Install all the dependencies
 
